@@ -171,36 +171,12 @@
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_9" PartClassifyType="InputAndShow" PartID="4_NUM_9">
-<General Desc="NUM_0" Area="647 296 784 341" CharSize="1614141414141414" WordAddr="HAW63" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW63" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_10" PartClassifyType="InputAndShow" PartID="4_NUM_10">
-<General Desc="NUM_0" Area="19 391 156 436" CharSize="1614141414141414" WordAddr="HAW64" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW64" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_5" PartClassifyType="OtherClassType" PartID="4_TXT_5">
 <General TextContent=" Nhiệt Độ 
 Bật Quạt 3" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="355 245" Width="92" Height="43" Area="355 245 447 288"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_6" PartClassifyType="OtherClassType" PartID="4_TXT_6">
 <General TextContent=" Nhiệt Độ 
 Bật Quạt 4" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="509 246" Width="92" Height="43" Area="509 246 601 289"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_7" PartClassifyType="OtherClassType" PartID="4_TXT_7">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 5" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="664 244" Width="92" Height="43" Area="664 244 756 287"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_8" PartClassifyType="OtherClassType" PartID="4_TXT_8">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 6" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="39 343" Width="92" Height="43" Area="39 343 131 386"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_9" PartClassifyType="OtherClassType" PartID="4_TXT_9">
 <General TextContent=" Nhiệt Độ 
 Bật Quạt 2" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="198 245" Width="92" Height="43" Area="198 245 290 288"/></PartInfo>
@@ -230,54 +206,6 @@ Bật Quạt 1" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 
 <PartInfo PartType="Text" PartName="TXT_12" PartClassifyType="OtherClassType" PartID="4_TXT_12">
 <General TextContent="Số Quạt Chạy 
    Cố Định" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="521 83" Width="117" Height="43" Area="521 83 643 126"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_13" PartClassifyType="InputAndShow" PartID="4_NUM_13">
-<General Desc="NUM_0" Area="170 391 307 436" CharSize="1614141414141414" WordAddr="HAW65" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW65" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_13" PartClassifyType="OtherClassType" PartID="4_TXT_13">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 7" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="198 343" Width="92" Height="43" Area="198 343 290 386"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_14" PartClassifyType="InputAndShow" PartID="4_NUM_14">
-<General Desc="NUM_0" Area="334 391 471 436" CharSize="1614141414141414" WordAddr="HAW66" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW66" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_14" PartClassifyType="OtherClassType" PartID="4_TXT_14">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 8" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="355 343" Width="92" Height="43" Area="355 343 447 386"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_15" PartClassifyType="OtherClassType" PartID="4_TXT_15">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 9" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="509 343" Width="92" Height="43" Area="509 343 601 386"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_15" PartClassifyType="InputAndShow" PartID="4_NUM_15">
-<General Desc="NUM_0" Area="491 391 628 436" CharSize="1614141414141414" WordAddr="HAW67" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW67" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_16" PartClassifyType="OtherClassType" PartID="4_TXT_16">
-<General TextContent=" Nhiệt Độ 
-Bật Quạt 10" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="664 343" Width="102" Height="43" Area="664 343 766 386"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_16" PartClassifyType="InputAndShow" PartID="4_NUM_16">
-<General Desc="NUM_0" Area="647 391 784 436" CharSize="1614141414141414" WordAddr="HAW68" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HAW68" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="TimeDisplay" PartName="TIME_0" PartClassifyType="Time" PartID="4_TIME_0">
 <General Desc="TIME_0" Area="425 38 587 61" FigureFile="" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" CharSize="1414141414141414" BmpIndex="-1"/>
 <SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>

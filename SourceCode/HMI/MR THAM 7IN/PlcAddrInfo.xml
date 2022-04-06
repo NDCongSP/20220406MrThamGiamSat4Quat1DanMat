@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project filever="1.0">
-	<AddrInfo ScrnNo="8" HasNoPlcAddr="1">
-		<HMIAddr>
-			<WordAddr>
-				<Add Addr="HAW_W_0000000" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000121" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000120" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="9" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -25,14 +19,8 @@
 				<Add Addr="HAW_W_0000003" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000010" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000011" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000012" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000013" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000009" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000008" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000014" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000015" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000016" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000017" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000008" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="2" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -45,14 +33,8 @@
 				<Add Addr="HAW_W_0000020" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000027" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000028" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000029" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000030" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000026" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000025" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000031" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000032" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000033" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000034" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000025" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="3" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -65,14 +47,8 @@
 				<Add Addr="HAW_W_0000037" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000044" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000045" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000046" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000047" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000043" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000042" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000048" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000049" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000050" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000051" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000042" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="4" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -85,14 +61,8 @@
 				<Add Addr="HAW_W_0000054" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000061" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000062" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000063" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000064" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000060" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000059" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000065" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000066" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000067" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000068" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000059" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="5" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -105,14 +75,8 @@
 				<Add Addr="HAW_W_0000071" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000078" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000079" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000080" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000081" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000077" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000076" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000082" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000083" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000084" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000085" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000076" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="6" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -125,14 +89,8 @@
 				<Add Addr="HAW_W_0000088" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000095" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000096" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000097" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000098" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000094" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000093" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000099" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000100" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000101" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000102" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000093" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 	<AddrInfo ScrnNo="7" HasNoPlcAddr="1">
 		<HMIAddr>
 			<WordAddr>
@@ -145,14 +103,14 @@
 				<Add Addr="HAW_W_0000105" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000112" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000113" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000114" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000115" Len="1" Fast="0"/>
 				<Add Addr="HAW_W_0000111" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000110" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000116" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000117" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000118" Len="1" Fast="0"/>
-				<Add Addr="HAW_W_0000119" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+				<Add Addr="HAW_W_0000110" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
+	<AddrInfo ScrnNo="8" HasNoPlcAddr="1">
+		<HMIAddr>
+			<WordAddr>
+				<Add Addr="HAW_W_0000000" Len="1" Fast="0"/>
+				<Add Addr="HAW_W_0000121" Len="1" Fast="0"/>
+				<Add Addr="HAW_W_0000120" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo>
 <AddrInfo ScrnNo="0" HasNoPlcAddr="1">
 <HMIAddr>
 
@@ -162,16 +120,8 @@
 <Add Addr="HAW_W_0000120" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0000027" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0000032" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0000028" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0000029" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0000033" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0001000" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0001001" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0001002" Len="1" Fast="0"/>
 <Add Addr="HDW_W_0001003" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001004" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001005" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001006" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001007" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001008" Len="1" Fast="0"/>
-<Add Addr="HDW_W_0001009" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo></project>
+<Add Addr="HDW_W_0001004" Len="1" Fast="0"/></WordAddr></HMIAddr></AddrInfo></project>

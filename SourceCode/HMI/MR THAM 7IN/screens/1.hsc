@@ -14,8 +14,6 @@
 <General TextContent="Quạt 4" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="457 322" Width="37" Height="15" Area="457 322 502 338"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_4" PartClassifyType="OtherClassType" PartID="0_TXT_4">
 <General TextContent="Quạt 5" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="593 321" Width="37" Height="15" Area="593 321 638 337"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_5" PartClassifyType="OtherClassType" PartID="0_TXT_5">
-<General TextContent="Quạt 6" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="34 416" Width="45" Height="16" Area="34 416 79 432"/></PartInfo>
 <PartInfo PartType="IndicatorLamp" PartName="BL_10" PartClassifyType="Switch" PartID="0_BL_10">
 <General Desc="BL_10" Area="26 66 72 102" MonitorAddr="HDX11.0" Fast="0" BmpIndex="130" LaStartPt="0 0" BitShowReverse="0" FigureFile="" BorderColor="0xf7e7ad 0"/>
 <Extension TouchState="1" Buzzer="1"/>
@@ -85,14 +83,6 @@
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" UserGroupIdSet="1" PopType="0" IsHidePart="0"/>
 <Label Status="0" Bold="0" CharSize="1414141414141414" LaFrnColor="0x0 0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_6" PartClassifyType="OtherClassType" PartID="0_TXT_6">
-<General TextContent="Quạt 7" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="168 416" Width="45" Height="16" Area="168 416 213 432"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_7" PartClassifyType="OtherClassType" PartID="0_TXT_7">
-<General TextContent="Quạt 8" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="312 416" Width="45" Height="16" Area="312 416 357 432"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_8" PartClassifyType="OtherClassType" PartID="0_TXT_8">
-<General TextContent="Quạt 9" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="453 416" Width="45" Height="16" Area="453 416 498 432"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_9" PartClassifyType="OtherClassType" PartID="0_TXT_9">
-<General TextContent="Quạt 10" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="585 416" Width="53" Height="16" Area="585 416 638 432"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_17" PartClassifyType="OtherClassType" PartID="0_TXT_17">
 <General TextContent="Quá Tải" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="28 224" Width="43" Height="15" Area="28 224 80 240"/></PartInfo>
 <PartInfo PartType="IndicatorLamp" PartName="BL_12" PartClassifyType="Switch" PartID="0_BL_12">
@@ -205,7 +195,7 @@
 <PartInfo PartType="Text" PartName="TXT_14" PartClassifyType="OtherClassType" PartID="0_TXT_14">
 <General TextContent="GIAI ĐOẠN" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="230 38" Width="119" Height="16" Area="230 38 302 54"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_5" PartClassifyType="InputAndShow" PartID="0_NUM_5">
-<General Desc="NUM_5" Area="316 35 351 57" CharSize="2214141414141414" WordAddr="HDW32" Fast="0" HighLowChange="0" IsInput="0" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
+<General Desc="NUM_5" Area="316 35 380 57" CharSize="2214141414141414" WordAddr="HDW32" Fast="0" HighLowChange="0" IsInput="0" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
 <SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
 <DispFormat DispType="105" DigitCount="5 0" DataLimit="0105 05 00 0 65535" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
 <MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
@@ -213,39 +203,6 @@
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_6" PartClassifyType="InputAndShow" PartID="0_NUM_6">
-<General Desc="NUM_0" Area="223 193 349 242" CharSize="1414141414141414" WordAddr="HDW28" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HDW28" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_15" PartClassifyType="OtherClassType" PartID="0_TXT_15">
-<General TextContent="O2" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="175 210" Width="19" Height="16" Area="175 210 194 226"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_7" PartClassifyType="InputAndShow" PartID="0_NUM_7">
-<General Desc="NUM_0" Area="658 193 784 242" CharSize="1414141414141414" WordAddr="HDW29" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HDW29" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_16" PartClassifyType="OtherClassType" PartID="0_TXT_16">
-<General TextContent="NH3" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="597 209" Width="28" Height="16" Area="597 209 625 225"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_8" PartClassifyType="InputAndShow" PartID="0_NUM_8">
-<General Desc="NUM_0" Area="444 193 570 242" CharSize="1414141414141414" WordAddr="HDW33" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="HDW33" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="-1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0001.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 1" DataLimit="0105 04 01 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_18" PartClassifyType="OtherClassType" PartID="0_TXT_18">
-<General TextContent="CO2" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="388 209" Width="29" Height="16" Area="388 209 417 225"/></PartInfo>
 <PartInfo PartType="WordShow" PartName="WL_0" PartClassifyType="Switch" PartID="0_WL_0">
 <General Desc="WL_0" Area="12 252 100 323" WordAddr="HDW1000" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX0.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
 <Extension TouchState="1" Buzzer="1"/>
@@ -288,56 +245,6 @@
 <Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
 <PartInfo PartType="WordShow" PartName="WL_4" PartClassifyType="Switch" PartID="0_WL_4">
 <General Desc="WL_0" Area="567 252 655 323" WordAddr="HDW1004" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX4.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
-<Extension TouchState="1" Buzzer="1"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<UserAuthority IsUseUserAuthoritys="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
-<Label Status="0" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-2.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="0"/>
-<Label Status="1" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-1.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="1"/>
-<Label Status="2" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-4.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="2"/>
-<Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
-<PartInfo PartType="WordShow" PartName="WL_5" PartClassifyType="Switch" PartID="0_WL_5">
-<General Desc="WL_0" Area="12 341 100 412" WordAddr="HDW1005" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX5.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
-<Extension TouchState="1" Buzzer="1"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<UserAuthority IsUseUserAuthoritys="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
-<Label Status="0" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-2.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="0"/>
-<Label Status="1" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-1.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="1"/>
-<Label Status="2" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-4.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="2"/>
-<Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
-<PartInfo PartType="WordShow" PartName="WL_6" PartClassifyType="Switch" PartID="0_WL_6">
-<General Desc="WL_0" Area="146 346 234 417" WordAddr="HDW1006" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX6.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
-<Extension TouchState="1" Buzzer="1"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<UserAuthority IsUseUserAuthoritys="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
-<Label Status="0" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-2.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="0"/>
-<Label Status="1" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-1.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="1"/>
-<Label Status="2" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-4.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="2"/>
-<Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
-<PartInfo PartType="WordShow" PartName="WL_7" PartClassifyType="Switch" PartID="0_WL_7">
-<General Desc="WL_0" Area="290 343 378 414" WordAddr="HDW1007" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX7.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
-<Extension TouchState="1" Buzzer="1"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<UserAuthority IsUseUserAuthoritys="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
-<Label Status="0" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-2.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="0"/>
-<Label Status="1" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-1.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="1"/>
-<Label Status="2" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-4.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="2"/>
-<Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
-<PartInfo PartType="WordShow" PartName="WL_8" PartClassifyType="Switch" PartID="0_WL_8">
-<General Desc="WL_0" Area="431 350 519 421" WordAddr="HDW1008" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX8.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
-<Extension TouchState="1" Buzzer="1"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<UserAuthority IsUseUserAuthoritys="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
-<Label Status="0" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-2.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="0"/>
-<Label Status="1" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-1.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="1"/>
-<Label Status="2" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-4.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="2"/>
-<Label Status="3" Bold="0" CharSize="1616161616161616" LaFrnColor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" svgfile="Fan\Fan9-3.svg" dark="0x0 0" light="0xffcc00 0" hlight="0x0 0" shadow="0x0 0" shape="0xffda82 0" gstartcolor="0xffffff 0" gmidcolor="0x0 0" gendcolor="0xffd92e 0" keyValue="3"/></PartInfo>
-<PartInfo PartType="WordShow" PartName="WL_9" PartClassifyType="Switch" PartID="0_WL_9">
-<General Desc="WL_0" Area="567 351 655 422" WordAddr="HDW1009" DataFormat="105" Const="0" Limit="-1" BmpIndex="132" LaStartPt="0 0" IsIndirectR="0" IsManyTypeShow="1" Fast="0" StatusCovType="1" StatusFreq="1" AnimaReturn="0" ByAddr="0" Trigger="1" TriggAddrWordShow="HDX9.0" isNautomatic="0" UseClickTime="0" ClickTime="2000" isReturn="0" ReturnNum="0" IsControl="1" ControlNum="4" NewLabelNum="0" FigureFile="" BorderColor="0xf7e7ad 0" WSShowErrorState="1" WSErrorState="0"/>
 <Extension TouchState="1" Buzzer="1"/>
 <MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
 <TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
