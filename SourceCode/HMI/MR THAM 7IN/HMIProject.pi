@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project filever="1.0" SoftLang="English" OldVersion="R05R998_V7.2.198_D20211210" ProjectVer="R05R998_V7.2.198_D20211210">
-	<HmiSet RotateAngle="0" Type="PI3070ie" Width="800" Height="480" HmiTypeIndex="72" HmiCpuType="RK64" PIEx="0" Language="0" StartScrNo="0" Style="Rurality" SaveAsJpg="0" JpgBkColor="0" />
+	<HmiSet RotateAngle="0" Type="PI3070ie" Width="800" Height="480" HmiTypeIndex="72" HmiCpuType="RK64" PIEx="0" StartScrNo="0" Style="Rurality" SaveAsJpg="0" JpgBkColor="0" Language="0" />
 	<AddressLib />
 	<StringLib Language="0" />
 	<SysSet>
