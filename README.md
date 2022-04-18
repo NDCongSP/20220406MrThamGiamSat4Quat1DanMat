@@ -7,3 +7,8 @@ HMI
 PLC
 INVT
 nhiệt độ độ ẩm
+
+HMI kết nối PLC 
+
+
+PLC sử dụng mode wecon protocol Com 2

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0">
+	<MergBlockInfo Total="2">
+		<Connection No="3" MaxBufSize="8">
+			<BitBlock>
+				<Block No="0" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_X_3:0:M:0:0:25600" Len="1" Fast="0" ScnNo="-1" />
+				<Block No="1" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_X_3:0:M:200:0:25600" Len="1" Fast="0" ScnNo="-1" />
+				<Block No="2" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_X_3:0:X:0:0:28416" Len="8" Fast="0" ScnNo="-1" />
+				<Block No="3" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_X_3:0:Y:0:0:28416" Len="5" Fast="0" ScnNo="-1" />
+			</BitBlock>
+			<ByteBlock />
+			<WordBlock>
+				<Block No="0" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_3:0:D:0:0:25600" Len="8" Fast="0" ScnNo="-1" />
+			</WordBlock>
+			<DWordBlock />
+		</Connection>
+		<Connection No="1" MaxBufSize="2">
+			<BitBlock />
+			<ByteBlock />
+			<WordBlock>
+				<Block No="0" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:2:4:4096:0:25600" Len="2" Fast="0" ScnNo="-1" />
+				<Block No="1" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:1:4:511:0:25600" Len="1" Fast="0" ScnNo="-1" />
+				<Block No="2" Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:1:4:513:0:25600" Len="1" Fast="0" ScnNo="-1" />
+			</WordBlock>
+			<DWordBlock />
+		</Connection>
+	</MergBlockInfo>
+</project>

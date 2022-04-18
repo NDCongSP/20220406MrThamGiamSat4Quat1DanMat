@@ -1,0 +1,111 @@
+@W_HDW1000=100
+@W_HAW0=0'deadband nhiet do
+
+@W_HDW31=3000'tan so cai dat
+
+'NGAY BAT DAU VA KET THUC
+@W_HAW1=0'moc 1 tu ngay
+@W_HAW2=1'moc 1 den ngay
+@W_HAW18=2'moc 2 tu ngay
+@W_HAW19=3'moc 2 den ngay
+@W_HAW35=4'moc 3 tu ngay
+@W_HAW36=5'moc 3 den ngay
+@W_HAW52=6'moc 4 tu ngay
+@W_HAW53=7'moc 4 den ngay
+@W_HAW69=8'moc 5 tu ngay
+@W_HAW70=9'moc 5 den ngay
+@W_HAW86=10'moc 6 tu ngay
+@W_HAW87=11'moc 6 den ngay
+@W_HAW103=12'moc 7 tu ngay
+@W_HAW104=13'moc 7 den ngay
+
+'gan gia tri ban dau cho moc 1
+@W_HAW3=1'moc1SoQuatChayCoDinh
+@W_HAW4=300'moc1NhietDoCao
+@W_HAW5=100'moc1NhietDoThap
+@W_HAW6=5000'moc1TanSoCao
+@W_HAW7=1000'moc1TanSoThap
+@W_HAW8=200'moc1NhietDoQuat1
+@W_HAW9=210'moc1NhietDoQuat2
+@W_HAW10=220'moc1NhietDoQuat3
+@W_HAW11=230'moc1NhietDoQuat4
+
+'gan gia tri ban dau cho moc 2
+@W_HAW20=1
+@W_HAW21=300
+@W_HAW22=100
+@W_HAW23=5000
+@W_HAW24=1000
+@W_HAW25=200
+@W_HAW26=210
+@W_HAW27=220
+@W_HAW28=230
+'gan gia tri ban dau cho moc 3
+@W_HAW37=1
+@W_HAW38=300
+@W_HAW39=100
+@W_HAW40=5000
+@W_HAW41=1000
+@W_HAW42=200
+@W_HAW43=210
+@W_HAW44=220
+@W_HAW45=230
+'gan gia tri ban dau cho moc 4
+@W_HAW54=1
+@W_HAW55=300
+@W_HAW56=100
+@W_HAW57=5000
+@W_HAW58=1000
+@W_HAW59=200
+@W_HAW60=210
+@W_HAW61=220
+@W_HAW62=230
+
+'gan gia tri ban dau cho moc 5
+@W_HAW71=1
+@W_HAW72=300
+@W_HAW73=100
+@W_HAW74=5000
+@W_HAW75=1000
+@W_HAW76=200
+@W_HAW77=210
+@W_HAW78=220
+@W_HAW79=230
+
+'gan gia tri ban dau cho moc 6
+@W_HAW88=1
+@W_HAW89=300
+@W_HAW90=100
+@W_HAW91=5000
+@W_HAW92=1000
+@W_HAW93=200
+@W_HAW94=210
+@W_HAW95=220
+@W_HAW96=230
+
+'gan gia tri ban dau cho moc 7
+@W_HAW105=1
+@W_HAW106=300
+@W_HAW107=100
+@W_HAW108=5000
+@W_HAW109=1000
+@W_HAW110=200
+@W_HAW111=210
+@W_HAW112=220
+@W_HAW113=230
+
+'-------------------------------------------------------------------------------------
+@W_HDW200=@W_HAW0
+@W_HDW201=@W_HAW121
+@W_HDW300=100
+@W_HDW202=@W_HAW1
+@W_HDW203=@W_HAW2
+@W_HDW204=@W_HAW3
+@W_HDW205=@W_HAW4
+@W_HDW206=@W_HAW5
+@W_HDW207=@W_HAW6
+@W_HDW208=@W_HAW7
+@W_HDW209=@W_HAW8
+@W_HDW210=@W_HAW9
+@W_HDW211=@W_HAW10
+@W_HDW212=@W_HAW11
