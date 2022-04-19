@@ -90,7 +90,7 @@
 		<General TextContent="MÀN HÌNH CHÍNH" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1614141414141414" Bold="0" StartPt="226 14" Width="119" Height="16" Area="226 14 345 30" InAlign="1" Locking="0" />
 	</PartInfo>
 	<PartInfo PartType="Bitmap" PartName="BMP_1" PartClassifyType="Pic" PartID="0_BMP_1">
-		<General Desc="BMP_1" StartPt="622 0" Width="177" Height="71" BmpIndex="127" UsePicDispFun="0" FolderType="0" Locking="0" />
+		<General Desc="BMP_1" StartPt="622 0" Width="177" Height="71" BmpIndex="133" UsePicDispFun="0" FolderType="0" Locking="0" />
 		<SVGColor svgfile="" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" />
 		<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000" />
 	</PartInfo>

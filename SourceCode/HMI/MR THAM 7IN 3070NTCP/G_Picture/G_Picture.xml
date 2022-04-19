@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <G_Picture G_PictureVer="2.0">
-	<G_bmplib FileType="1" AllBmpTotal="132" CurBmpTotal="39">
+	<G_bmplib FileType="1" CurBmpTotal="40" AllBmpTotal="133">
 		<G_bmp Default="1" nId="1" nTotalStatus="2">
 			<MulStatus szFilename="Bmp1_0.dat" dwMID="0" />
 			<MulStatus szFilename="Bmp1_1.dat" dwMID="1" />
@@ -89,5 +89,6 @@
 			<MulStatus dwMID="2" IsVector="1" szPath="Fan" szFilename="Fan9-4.svg" bSavePng="0" bTransparent="0" cTransColor="0" />
 			<MulStatus dwMID="3" IsVector="1" szPath="Fan" szFilename="Fan9-3.svg" bSavePng="0" bTransparent="0" cTransColor="0" />
 		</G_bmp>
+		<G_bmp szFilename="Bmp133_0.dat" nId="133" nTotalStatus="1" nNewTotalStatus="0" />
 	</G_bmplib>
 </G_Picture>

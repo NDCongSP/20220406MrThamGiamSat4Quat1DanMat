@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project filever="1.0" SoftLang="English" OldVersion="R05R998_V7.2.198_D20211210" ProjectVer="R05R998_V7.2.198_D20211210">
-	<HmiSet RotateAngle="0" Type="PI3070" Width="800" Height="480" HmiTypeIndex="40" HmiCpuType="A8-3" PIEx="0" StartScrNo="0" Style="Rurality" SaveAsJpg="0" JpgBkColor="0" Language="0" />
+	<HmiSet RotateAngle="0" Type="PI3070" Width="800" Height="480" HmiTypeIndex="40" HmiCpuType="A8-3" PIEx="0" Language="0" StartScrNo="0" Style="Rurality" SaveAsJpg="0" JpgBkColor="0" />
 	<AddressLib />
 	<StringLib Language="0" />
 	<SysSet>
-		<SecSet Design="" />
+		<SecSet Design="PhucTh!nh!@#456" />
 		<NETSet UseNet="1" NETIPaddr="192.168.1.200" NETMASKaddr="255.255.255.0" NETWayaddr="192.168.1.1" DNS1="0.0.0.0" DNS2="0.0.0.0" />
 		<UpnpPortSet UsePortMapping="0" />
 		<RemoteSet RemotePwd="888888" />
@@ -149,7 +149,7 @@ endif
 			<Trigger Action="1" BitAddr="HDX14.0">'reset lai ngayve lai ban dau
 @W_HAW120=0
 
-'@B_HDX14.0=0 'ghi lai gia tri 0 cho tag reset
+@B_HDX14.0=0 'ghi lai gia tri 0 cho tag reset
 </Trigger>
 			<Trigger Action="1" BitAddr="HDX42.0">'trigger ddieu khien quat theo nhiet do moc 1
 '2 quat chay co dinh
@@ -3250,7 +3250,6 @@ ENDIF
 		</TimerAction>
 		<InitialAction>@W_HDW1000=100
 @W_HDW31=3000'tan so cai dat
-
 </InitialAction>
 	</Script>
 </project>

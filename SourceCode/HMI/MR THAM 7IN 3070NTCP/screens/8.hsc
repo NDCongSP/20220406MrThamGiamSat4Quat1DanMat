@@ -30,7 +30,7 @@
 		<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000" />
 	</PartInfo>
 	<PartInfo PartType="Bitmap" PartName="BMP_1" PartClassifyType="Pic" PartID="7_BMP_1">
-		<General Desc="BMP_1" StartPt="623 0" Width="177" Height="68" BmpIndex="127" UsePicDispFun="0" FolderType="0" Locking="0" />
+		<General Desc="BMP_1" StartPt="623 0" Width="177" Height="68" BmpIndex="133" UsePicDispFun="0" FolderType="0" Locking="0" />
 		<SVGColor svgfile="" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" />
 		<MoveZoom DataFormatMZ="4" MutipleMZ="1.000000000000000" />
 	</PartInfo>

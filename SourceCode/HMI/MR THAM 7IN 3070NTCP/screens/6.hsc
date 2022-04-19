@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrInfo ScreenNo="8" ScreenType="" ScreenSize="0">
 	<PartInfo PartType="Bitmap" PartName="BMP_0" PartClassifyType="Pic" PartID="8_BMP_0">
-		<General Desc="BMP_1" StartPt="623 0" Width="177" Height="68" BmpIndex="127" UsePicDispFun="0" FolderType="0" Locking="0" />
+		<General Desc="BMP_1" StartPt="623 0" Width="177" Height="68" BmpIndex="133" UsePicDispFun="0" FolderType="0" Locking="0" />
 		<SVGColor svgfile="" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" />
 		<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000" />
 	</PartInfo>
@@ -29,7 +29,7 @@
 		<General TextContent="Restart Ngày" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="164 198" Width="115" Height="21" Area="164 198 279 219" InAlign="1" Locking="0" />
 	</PartInfo>
 	<PartInfo PartType="Text" PartName="TXT_2" PartClassifyType="OtherClassType" PartID="8_TXT_2">
-		<General TextContent="Deadband Nhiệt Độ" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="136 358" Width="171" Height="21" Area="136 358 307 379" InAlign="1" Locking="0" />
+		<General TextContent="Khoảng Trễ Nhiệt Độ" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="136 358" Width="171" Height="21" Area="136 358 320 379" InAlign="1" Locking="0" />
 	</PartInfo>
 	<PartInfo PartType="FunctionSwitch" PartName="FS_0" PartClassifyType="Switch" PartID="8_FS_0">
 		<General Desc="FS_0" Area="688 438 784 477" ScrSwitch="0" FuncFunc="3" ScreenNo="6" ScreenNo2="-1" PointPos="0 0" PopupScreenType="0" PopupCloseWithParent="0" OperateDataType="0" FigureFile="" BorderColor="0xf7e7ad 0" Pattern="0" FrnColor="0x0 0" BgColor="0x0 0" BmpIndex="-1" LaStartPt="6 11" DelayTime="0" FunAllTerminal="0" EnableTryAddr="0" TextAlign="0" TextArea="84 16" Locking="0" />
@@ -135,7 +135,7 @@
 		<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" UserGroupIdSet="0" PopType="0" IsHidePart="0" />
 	</PartInfo>
 	<PartInfo PartType="Text" PartName="TXT_3" PartClassifyType="OtherClassType" PartID="8_TXT_3">
-		<General TextContent="Offset Nhiệt Độ" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="439 358" Width="136" Height="21" Area="439 358 575 379" InAlign="1" Locking="0" />
+		<General TextContent="Bù Nhiệt Độ" LaFrnColor="0x8000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="439 358" Width="136" Height="21" Area="439 358 546 379" InAlign="1" Locking="0" />
 	</PartInfo>
 	<PartInfo PartType="BitSwitch" PartName="BS_1" PartClassifyType="Switch" PartID="8_BS_1">
 		<General Desc="BS_1" Area="145 107 298 169" OperateAddr="HDX14.0" Fast="0" BitFunc="2" ResetDelay="1" Monitor="1" MonitorAddr="HDX14.0" FigureFile="" BorderColor="0xf7e7ad 0" BmpIndex="113" LaStartPt="76 31" BitShowReverse="0" IsIndirectR="0" IsIndirectW="0" MinClickTime="0" TextAlign="0" TextArea="0 0" Locking="0" />

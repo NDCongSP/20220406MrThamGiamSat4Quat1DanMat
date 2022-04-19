@@ -24,6 +24,11 @@
 			<Add PLCAddr="HDX18.0" PLCAddr1="" DstAddr="2#07" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
 			<Add PLCAddr="HDX25.0" PLCAddr1="" DstAddr="2#08" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
 			<Add PLCAddr="HDX14.0" PLCAddr1="" DstAddr="2#03" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
+			<Add PLCAddr="HDX0.0" PLCAddr1="" DstAddr="2#1:09" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
+			<Add PLCAddr="HDX1.0" PLCAddr1="" DstAddr="2#1:010" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
+			<Add PLCAddr="HDX2.0" PLCAddr1="" DstAddr="2#1:011" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
+			<Add PLCAddr="HDX3.0" PLCAddr1="" DstAddr="2#1:012" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
+			<Add PLCAddr="HDX10.0" PLCAddr1="" DstAddr="2#1:013" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" />
 		</BitAddr>
 		<WordAddr ContralAddr="" ConType="0">
 			<Add PLCAddr="1:4511" PLCAddr1="" DstAddr="HDW33" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
